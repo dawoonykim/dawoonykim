@@ -1,6 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&text=🌱%20매일%20성장하기%20위해%20도전하는%20개발자&animation=blinking&fontColor=ffffff&fontSize=40" />
 </div>
+---
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
@@ -8,6 +9,7 @@
         끊임없이 배우고, 실무에 적용하며 성장하는 엔지니어가 되겠습니다.
     </div> 
 </div>
+---
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
@@ -24,6 +26,7 @@
         <br/>
     </div>
 </div>
+---
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">
