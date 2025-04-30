@@ -27,7 +27,8 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-
+<div align= "center">
    ![Dawoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawoonKim&theme=vue&show_icons=true)
+</div>
 
     
