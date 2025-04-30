@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=120&text=🌱%20매일%20성장하기%20위해%20도전하는%20개발자&animation=blinking&fontColor=ffffff&fontSize=40" />
 </div>
 
----
+
 
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
@@ -12,7 +12,7 @@
     </div> 
 </div>
 
----
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -31,7 +31,7 @@
     </div>
 </div>
 
----
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -46,7 +46,7 @@
     <br>
 </div>
 
----
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DawoonKim&theme=vue&show_icons=true" alt="Dawoon's GitHub stats"/>
