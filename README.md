@@ -32,5 +32,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dawoon Kim&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    ![Dawoon's GitHub stats](https://github-readme-stats.vercel.app/api?github.com/dawoonykim=anuraghazra&theme=vue&show_icons=true)
+    ![Dawoon's GitHub stats](https://github-readme-stats.vercel.app/api?Dawoon Kim=anuraghazra&theme=vue&show_icons=true)
     
