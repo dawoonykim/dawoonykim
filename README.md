@@ -28,5 +28,6 @@
     <div align= "center">  </div> 
     </div>
 
-    ![Dawoon's GitHub stats](https://github-readme-stats.vercel.app/api?DawoonKim=anuraghazra&theme=vue&show_icons=true)
+   ![Dawoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawoonKim&theme=vue&show_icons=true)
+
     
