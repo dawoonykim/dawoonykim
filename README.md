@@ -3,8 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 현장 자동화와 스마트 팩토리의 핵심,임베디드와 PLC 그리고 PYTHON 개발에 도전하고 있습니다.
-      끊임없이 배우고, 실무에 적용하며 성장하는 엔지니어가 되겠습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 현장 자동화와 스마트 팩토리의 핵심,임베디드와 PLC 그리고 PYTHON 개발에 도전하고 있습니다. 끊임없이 배우고, 실무에 적용하며 성장하는 엔지니어가 되겠습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -27,8 +26,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-<div align= "center">
+
    ![Dawoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DawoonKim&theme=vue&show_icons=true)
-</div>
 
     
